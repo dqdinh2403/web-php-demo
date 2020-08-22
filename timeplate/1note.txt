@@ -1,0 +1,15 @@
+mail:
+ducdonghoshop@gmail.com
+ducdonghoshop123
+
+account:
+admin
+admin123
+
+guest
+guest123
+
+recaptcha:
+- site key: 6Lf1ySwUAAAAAFg4OTRgszmYltzgmD_JoQqiBHQm
+- secret key: 6Lf1ySwUAAAAAIpdgpcijgf2rkYhVT4f50u9a2El
+
